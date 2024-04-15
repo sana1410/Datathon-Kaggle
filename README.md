@@ -1,4 +1,4 @@
-<h1>Stay or Stray: Predict Course Dropout</h1>[link](stay-or-stray-v5.ipynb)
+<h1>Stay or Stray: Predict Course Dropout</h1>[code](https://www.kaggle.com/code/sanayasin1410/stay-or-stray-v5)
 <hr><p>The competition aims to tackle the challenge of predicting student dropout from Online Courses.</p><h2>General Information</h2>
 <hr><ul>
 <li>This Kaggle competition is organized by the Data Science Hub, Northeastern University.</li>
