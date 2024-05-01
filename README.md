@@ -15,6 +15,8 @@
 <li>Scikit-Learn</li>
 
 <ul></ul>
+
+# [WiDS Datathon 2024](https://deepnote.com/app/wids2024-c6e3/WIDS2024Modeltraining-6a414396-4041-498e-bc27-c05e16a1c334)
 <h1>WiDS Datathon 2024 Challenge #2</h1>
 <hr><p>Predict the duration of time it takes for patients to receive metastatic cancer diagnosis.</p><h2>General Information</h2>
 <hr><ul>
@@ -40,3 +42,4 @@
 <li>Python</li>
 </ul>
 
+![Dashboard](https://github.com/sana1410/Datathon-Kaggle/blob/625f021a769de8b37ae0c3995925710a1adb6431/WiDS-Datathon/Image/Climate%20Impact.png)
